@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Angiesnow
 - 👀 I’m interested in learning interesting things.
 - 🌱 I’m currently learning Berkerly CS61A
-- 💞️ I’m looking to collaborate on fundamental coding stuff.
+- 💞️ I’m looking to collaborate on whichever you see me as a fit.
 - 📫 How to reach me @angela1115fl@gmail.com
 
 <!---
