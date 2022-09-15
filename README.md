@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Angiesnow
 - 👀 I’m interested in learning interesting things.
-- 🌱 I’m currently learning MITCS61A
+- 🌱 I’m currently learning Berkerly CS61A
 - 💞️ I’m looking to collaborate on fundamental coding stuff.
 - 📫 How to reach me @angela1115fl@gmail.com
 
